@@ -1,0 +1,25 @@
+.vertical-line{
+    position:relative;
+    top:2px;
+    width:1px;
+    height:33px;
+    opacity:.47;
+    border:1px solid #b1b9cf
+}
+
+.boxshadow{
+    box-shadow: 0 1px 10px rgba(104,114,163,.346345);
+}
+
+.user-info {
+    font-size: 13px;
+    margin: 0 10px 0 0;
+}
+
+.user-desg{
+    margin: 0 10px 0 0;
+    color: #707083;
+    font-size: 11px;
+    position: relative;
+    bottom: 4px;
+}

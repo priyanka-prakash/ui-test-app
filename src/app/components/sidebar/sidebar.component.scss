@@ -1,0 +1,26 @@
+#sidebar {
+    width: 250px;
+    position: fixed;
+    // top: 0;
+    padding: 20px;
+    left: 0;
+    height: 100vh;
+    // z-index: 999;
+    background: #fff;
+    color: rgb(18, 94, 71);
+    transition: all 0.3s;
+    box-shadow: 0 1px 10px rgba(104,114,163,.346345);
+}
+
+.m-left{
+    margin-left: 10px;
+}
+
+.list-unstyled{
+    list-style: none;
+    text-decoration: none;
+} 
+
+a :hover {
+    text-decoration: none;
+}
